@@ -75,4 +75,4 @@ Nishant
 
 [![GitHub](https://img.shields.io/badge/GitHub/Nishant232-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nishant232)
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn/2005Nishant-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/2005nishant)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn/2005Nishant-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/2005nishant)
